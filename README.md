@@ -1,6 +1,6 @@
 # pilotage
 
-API interne de l'équipe de camille — projet compagnon du livre
+API interne de l'équipe de camille — projet du livre
 « NixOS : Le système déclaratif » (Partie VI, chapitre
 « Environnements de développement »).
 
